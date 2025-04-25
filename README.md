@@ -54,7 +54,7 @@ I'm a pragmatic full-stack web developer focused on building reliable, maintaina
 
 ## 📈 GitHub Stats
 
-![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+[![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsobolenko&show_icons=true&theme=swift)](https://github.com/alexsobolenko)
 
 ---
 
